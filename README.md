@@ -1,27 +1,32 @@
 # TOTEM_build_resources
 
-WIP
-TOTEM Part links and helpful tips for keyboard builders!
+TOTEM part links from my personal build and some helpful tips I picked up from the r/ErgoMechKeyboards community!
 
-## Part List Links
+(Tried to keep formatting similar to the official guide by GEIST for simplicity)
 
-| Part                      | Link                                                       | Cost (CAD)                                     |
-| :------------------------ | :--------------------------------------------------------- | :--------------------------------------------- |
-| TOTEM PCB                 | https://github.com/GEIGEIGEIST/TOTEM/tree/main/PCB         | $19.70 Upload to [JLCPCB](https://jlcpcb.com/) |
-| Seeed XIAO (BLE/Wireless) |
-| TOTEM Redux Case          | https://www.printables.com/model/840146-totem-redux/files  | $17 Printed at local shop                      |
-| Diodes                    | https://www.aliexpress.com/item/1005005106815200.html?mp=1 |                                                |
+## Part List
 
-| TOTEM Redux Case | https://www.printables.com/model/840146-totem-redux/files | $17 Printed at local shop |
-| TOTEM Redux Case | https://www.printables.com/model/840146-totem-redux/files | $17 Printed at local shop |
-| TOTEM Redux Case | https://www.printables.com/model/840146-totem-redux/files | $17 Printed at local shop |
+| Part                           | Link / AliExpress SKU (if applicable)                                                                        | Cost (CAD)                                         |
+| :----------------------------- | :----------------------------------------------------------------------------------------------------------- | :------------------------------------------------- |
+| TOTEM PCB                      | https://github.com/GEIGEIGEIST/TOTEM/tree/main/PCB **Upload to** [JLCPCB](https://jlcpcb.com/)               | $26.75 = (18.20 + 22.13 shipping - 13.58 discount) |
+| Seeed XIAO (BLE/Wireless)      | https://www.seeedstudio.com/XIAO-Series-and-accessories.html                                                 | $28.50 = (35.29 - 6.79 disountcode: WELCOME5)      |
+| Choc key switch                | https://lowprokb.ca/products/ambients-silent-choc-switches                                                   | $69.95 = (52 + 17.95 shipping)                     |
+| diodes 1N4148W                 | https://www.aliexpress.com/item/1005005106815200.html / 1N4148W SOD-123                                      | $1.52                                              |
+| 1u Choc keycaps (MOTE in ABS)  | https://www.printables.com/model/864126-mote-choc-low-profile-flat-keycaps/files **_Printed at local shop_** | $10                                                |
+| reset button                   | https://www.aliexpress.com/item/1005005578596974.html / SKHLLCA010 10X                                       | $7.77 (4.55 + 3.22 shipping)                       |
+| power switch                   | https://www.aliexpress.com/item/4001295557976.html / black                                                   | $3.07                                              |
+| Lipo battery                   | https://ydlbattery.com/en-ca/products/ydl-3-7v-100mah-601120-rechargeable-lipo-battery-with-jst-connector    | $34.64 (20.25 + 14.39 shipping)                    |
+| switch socket                  | https://www.aliexpress.com/item/1005007232040760.html / 70pcs, Type B                                        | $7.55                                              |
+| 3D printed case (Redux in ABS) | https://www.printables.com/model/840146-totem-redux/files **_Printed at local shop_**                        | $17                                                |
+| 6mm M2 standoffs               | https://www.aliexpress.com/item/1005005088968562.html / female female, M2 50pcs, 6mm                         | $3.99                                              |
+| 6mm M2 countersunk screws      | https://www.aliexpress.com/item/1005005483315023.html / M2, 6mm x50pcs                                       | $1.96                                              |
+| 8x2mm rubber feet              | https://www.aliexpress.com/item/1005002478823169.html / 8x2mm black                                          | $3.70                                              |
 
-Summary of costs including shipping, but not taxes:
+Grand Total = $204.80
 
-Updated final cost of the build =
-Reddit helped me save $\_\_
+Reddit not only helped me save $75.01 but I got **_WAY_** more parts for my money that can be used for future builds!
 
-And here is everything I've learned so far:
+And here are some things I learned along the way:
 
 - Combine 3D prints (using sprues) where possible, since printing multiple items at the same time lowers costs
 - Try to have/design a reversible PCB as it lowers costs
